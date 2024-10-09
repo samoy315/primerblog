@@ -22,7 +22,7 @@ sections:
       icon: camera-retro
       icon_pack: fas
       name: Photography
-    title: Skills
+    title: Habilidades
 - block: experience
   content:
     date_format: Jan 2006
@@ -100,7 +100,7 @@ sections:
     order: desc
     subtitle: ""
     text: ""
-    title: Recent Posts
+    title: Blog
   design:
     columns: "2"
     view: compact
@@ -118,7 +118,7 @@ sections:
     filters:
       folders:
       - project
-    title: Projects
+    title: Proyectos
   design:
     columns: "1"
     flip_alt_rows: false
@@ -152,7 +152,7 @@ sections:
       {{% callout note %}}
       Quickly discover relevant content by [filtering publications](./publication/).
       {{% /callout %}}
-    title: Publicaciones recientes
+    title: Publicaciones cientificas recientes
   design:
     columns: "2"
     view: citation

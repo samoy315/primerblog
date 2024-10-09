@@ -53,5 +53,5 @@ superuser: true
 title: Victor Sevilla
 ---
 
-Es profesor de Geomática y Evaluación de Tierras en la Universidad Central de Venezuela. Sus intereses de investigación incluyen los Sistemas de Información Geográfica, la Cartografía digital, Evaluaciones agroambientales, Estudio de suelos y el desarrollo WEB. Actualmente Dirige la Cátedra de Evaluación de Tierras en la UCV.
+Es profesor de Geomática y Evaluación de Tierras en la Universidad Central de Venezuela. Sus intereses de investigación incluyen los Sistemas de Información Geográfica, la Cartografía digital de suelos, Evaluaciones agroambientales y el desarrollo WEB. Actualmente Dirige la Cátedra de Evaluación de Tierras en la UCV.
 {style="text-align: justify;"}
