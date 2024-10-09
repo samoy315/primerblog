@@ -43,10 +43,11 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/victor-sevilla
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
+  
 status:
   icon: ☕️
 superuser: true
