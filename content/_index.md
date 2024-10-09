@@ -4,7 +4,7 @@ sections:
 
 - block: about.biography
   content:
-    title: Biography
+    title: Biografia
     username: admin
   id: about
 - block: features
@@ -48,7 +48,7 @@ sections:
       description: Taught electronic engineering and researched semiconductor physics.
       location: California
       title: Professor of Semiconductor Physics
-    title: Experience
+    title: Experiencia
   design:
     columns: "2"
 - block: accomplishments
@@ -80,7 +80,7 @@ sections:
       title: Object-Oriented Programming in R
       url: ""
     subtitle: null
-    title: Accomplish&shy;ments
+    title: Logros
   design:
     columns: "2"
 - block: collection
@@ -137,7 +137,7 @@ sections:
       featured_only: true
       folders:
       - publication
-    title: Featured Publications
+    title: Publicaciones destacadas
   design:
     columns: "2"
     view: card
@@ -152,7 +152,7 @@ sections:
       {{% callout note %}}
       Quickly discover relevant content by [filtering publications](./publication/).
       {{% /callout %}}
-    title: Recent Publications
+    title: Publicaciones recientes
   design:
     columns: "2"
     view: citation
@@ -161,14 +161,14 @@ sections:
     filters:
       folders:
       - event
-    title: Recent & Upcoming Talks
+    title: Charlas recientes y proximas
   design:
     columns: "2"
     view: compact
   id: talks
 - block: tag_cloud
   content:
-    title: Popular Topics
+    title: Temas populares
   design:
     columns: "2"
 - block: contact
@@ -208,7 +208,7 @@ sections:
     # - Wednesday 09:00 to 10:00
     # phone: 888 888 88 88
     subtitle: null
-    text: Si desea contactarme puede enviarme un mensaje por correo electronico.
+    text: Si desea contactarme puede enviar un mensaje por correo electronico.
     title: Contacto
   design:
     columns: "2"
